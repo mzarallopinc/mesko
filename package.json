@@ -1,0 +1,30 @@
+{
+  "name": "mesko_app",
+  "version": "0.1.0",
+  "description": "Sistema CRM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masterclass/mesko.git"
+  },
+  "keywords": [
+    "CRM",
+    "sitema",
+    "de",
+    "gestion",
+    "compra",
+    "online"
+  ],
+  "author": "Maximiliano Zarallo",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/masterclass/mesko/issues"
+  },
+  "dependencies": {
+    "logfmt": "~1.1.2",
+    "express": "~4.8.3"
+  }
+}
